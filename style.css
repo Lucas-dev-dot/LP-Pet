@@ -10,7 +10,7 @@ body {
 
 /* HEADER */
 .header {
-  background-image: url('./assets/header-bg.png'); 
+  background-image: url('https://lucas-dev-dot.github.io/LP-Pet/assets/header-bg.png'); 
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
